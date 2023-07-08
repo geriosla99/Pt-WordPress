@@ -1,0 +1,14 @@
+/*
+Theme Name: Inicial
+Theme URI: http://localhost
+Author: Arsys Internet
+Author URI: https://www.geraldinerios.netlify.app
+Description: Creamos este template a modo de demostración
+Version: 0.0.1
+Tags: responsive, demo theme wordpress
+*/
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
